@@ -1,4 +1,4 @@
-## Available Scripts Website Hosted on Netlify
+## `Website Hosted on Netlify` ##
 
 https://revanth-starwisp-assignment1.netlify.app/
 
