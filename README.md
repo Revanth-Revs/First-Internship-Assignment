@@ -2,6 +2,14 @@
 
 https://revanth-starwisp-assignment1.netlify.app/
 
+## Given Tasks
+        Assignment 1- write the ui for both the screens in react, Link the pages using Router and host it on Netlify 
+        Assignment 2-
+        Task 1- On the UI screen one. Make a fully functional notepad with the given design
+        Task 2- On the UI screen two. On clicking the Post button generate a new post. With the data entered in it.
+        Refer this figma link for the design and css values:
+        https://www.figma.com/file/SO7C9KYlJk2RDIderwIn3F/Architect-s-Daughter?node-id=0%3A1
+
 
 # Getting Started with Create React App
 
