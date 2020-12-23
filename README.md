@@ -1,6 +1,6 @@
-###Website Deployed in Netlify 
+## Available Scripts Website Hosted on Netlify
 
-https://github.com/Revanth-Revs/First-Internship-Assignment
+https://revanth-starwisp-assignment1.netlify.app/
 
 
 # Getting Started with Create React App
