@@ -1,0 +1,8 @@
+.presentgraph__card {
+  border-radius: 20px !important;
+  width: 310px;
+  height: 234px;
+  box-shadow: -5px 8px 10px #727ccd;
+  margin-left: 75px;
+  margin-top: 10px;
+}

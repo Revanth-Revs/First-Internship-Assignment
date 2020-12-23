@@ -1,0 +1,22 @@
+.revenuemonth__card {
+  border-radius: 15px !important;
+  width: 141px;
+  height: 105px;
+  background-color: #ffe700 !important;
+  margin-top: 21px;
+  margin-left: 21px;
+}
+
+.revenuemonth__amount {
+  margin-top: 21px;
+  margin-left: 21px;
+  color: #593636;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.revenuemonth__tag {
+  margin-top: 21px;
+  margin-left: 21px;
+  color: rgba(89, 54, 54, 0.8);
+}

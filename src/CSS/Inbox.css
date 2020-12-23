@@ -1,0 +1,36 @@
+.InboxFrame {
+  position: absolute;
+  width: 320px;
+  height: 80px;
+  left: 850px;
+  top: 905px;
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+  border-radius: 15px;
+}
+
+.Text {
+  position: absolute;
+  height: 24px;
+  left: 10.3%;
+  right: 63.11%;
+  top: calc(50% - 24px / 2 + 3.5px);
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  color: #929292;
+}
+
+.Value {
+  position: absolute;
+  height: 48px;
+  left: 76.06%;
+  right: 3.71%;
+  top: calc(50% - 48px / 2 + 0.5px);
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 48px;
+  color: #593636;
+}

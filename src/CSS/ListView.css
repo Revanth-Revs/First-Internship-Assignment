@@ -1,0 +1,37 @@
+.listview {
+  display: flex;
+  flex-direction: row;
+}
+
+.list__paper {
+  width: 46px;
+  height: 54px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.list__block {
+  margin-left: 16px;
+}
+
+.list__title {
+  color: rgba(72, 72, 72, 1);
+  margin-top: 15px;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.list__message {
+  color: rgba(117, 111, 111, 1);
+  margin-top: 3px;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.list__time {
+  color: rgba(117, 111, 111, 1);
+  margin-top: 10px;
+  font-weight: 400;
+  font-size: 9px;
+}

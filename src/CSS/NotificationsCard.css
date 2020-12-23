@@ -1,0 +1,32 @@
+.noticard {
+  border-radius: 15px;
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 303px;
+  height: 599px;
+  background: radial-gradient(#ffffff, #f3f3f3);
+}
+
+.notify__list {
+  margin-left: 8px;
+  margin-right: 8px;
+  color: rgba(236, 236, 236, 1);
+}
+
+.notify__elements {
+  display: flex;
+  flex-direction: column;
+}
+
+.viewall {
+  margin-top: 34px;
+  padding-top: 2px;
+  padding-left: 24px;
+  font-size: 12px;
+  margin-left: 100px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: #eaeaea;
+  width: 71px;
+  height: 21px;
+}

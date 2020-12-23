@@ -1,0 +1,22 @@
+.quotation__block {
+  border-radius: 15px !important;
+  width: 141px;
+  height: 105px;
+  background-color: rgba(31, 253, 119, 1) !important;
+  margin-top: 21px;
+  margin-left: 21px;
+  margin-bottom: 200px;
+}
+
+.quotation__amount {
+  margin-top: 21px;
+  margin-left: 21px;
+  color: #593636;
+  font-weight: 400;
+  font-size: 20px;
+}
+.quotation__tag {
+  margin-top: 21px;
+  margin-left: 21px;
+  color: rgba(89, 54, 54, 0.8);
+}
